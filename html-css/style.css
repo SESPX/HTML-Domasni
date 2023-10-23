@@ -1,0 +1,68 @@
+
+body{
+    width: 800px;
+    margin: 0 auto;
+}
+img{
+    width: 300px;
+    height: 450px;
+}
+.text-cont{
+    margin-right: 200px;
+    /* justify-content: ; */
+    float:right;
+}
+span{
+    display: block;
+}
+h3{
+    color: gray;
+}
+.dot{
+    width: 50px;
+    height: 50px;
+
+}
+.info{
+    color: red;
+    
+}
+.menu{
+    background-color: gray;
+}
+.h1-2{
+    color: white;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.locos{
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.locos-cont{
+    /* margin-right:  ; */
+    float: right;
+    color: white;
+    margin-right: 80px;
+    margin-bottom: 10px;
+}
+button{
+    border: solid;
+    border-width: thin;
+    border-color: white;
+    background-color: gray;
+    padding: 5px 20px 5 20px;
+}
+.footer{
+    margin-left: 20px;
+    margin-bottom: 30px;
+    padding-bottom: 50px;
+    color: white;
+}
+u{
+    color: rgba(37, 37, 37, 0.466);
+}
+
