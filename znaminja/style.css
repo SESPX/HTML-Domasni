@@ -1,0 +1,216 @@
+.parent{
+    width: 900px;
+    margin: 0 auto;
+    border: 10px solid black;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 10px;
+    
+}
+.box{
+    width: 180px;
+    height: 120px;
+    border: 2px solid gray;
+    margin: 10px;
+}
+.red{
+    background-color: red;
+    width: 50px;
+    height: 120px;
+}
+.white-1{
+    background-color: white;
+    width:80px;
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.canada{
+    display: flex;
+    flex-direction: row;
+    
+}
+.france{
+    display: flex;
+    flex-direction: row;
+}
+img{
+    width: 80px;
+    height: 80px;
+}
+.blue{
+    background-color: blue;
+    width:60px;
+    height: 120px;
+}
+.white-2{
+    background-color: white;
+    width: 60px;
+    height: 120px;
+
+}
+.red-2{
+    background-color: red;
+    width:60px;
+    height: 120px;
+}
+.germany{
+    display: flex;
+    flex-direction: column;
+    
+}
+.italy{
+    display: flex;
+    flex-direction: row;
+    
+}
+.japan{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.black{
+    height: 40px;
+    width: 180px;
+    background-color: black;
+}
+.red-3{
+    height: 40px;
+    width: 180px;
+    background-color: red;
+}
+.yellow{
+    height: 40px;
+    width: 180px;
+    background-color: yellow;
+}
+.green{
+    background-color: green;
+    width:60px;
+    height: 120px;
+}
+.white-3{
+    background-color: white;
+    width:60px;
+    height: 120px;
+}
+.red-4{
+    background-color: red;
+    width:60px;
+    height: 120px;
+}
+.red-dot{
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+
+}
+.russia{
+    display: flex;
+    flex-direction: column;
+    
+}
+.white-6{
+    height: 40px;
+    width: 180px;
+    background-color: white;
+}
+.light-blue{
+    height: 40px;
+    width: 180px;
+    background-color: rgb(0, 81, 255);
+}
+.red-5{
+    height: 40px;
+    width: 180px;
+    background-color: red;
+}
+.part-1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+    
+}
+.part-2{
+    height: 20px;
+    width: 180px;
+    display: flex;
+    
+    
+}
+.d-1{
+    background-color: rgb(0, 110, 255);
+    width: 60px;
+    height: 55px;
+    
+}
+.d-2{
+    background-color: yellow;
+    width: 20px;
+    height: 55px;
+    
+    
+}
+.d-4{
+    background-color: yellow;
+}
+.d-3{
+    background-color: rgb(0, 110, 255);
+    height: 55px;
+    width: 100px;
+}
+.d-5{
+    background-color: rgb(0, 110, 255);
+    width: 60px;
+    height: 46px;
+    
+}
+.d-6{
+    background-color: yellow;
+    width: 20px;
+    height: 46px;
+    
+}
+.d-7{
+    background-color: rgb(0, 110, 255);
+    height: 46px;
+    width: 100px;
+}
+.f-1{
+    width: 95px;
+    height: 50px;
+}
+.star-1{
+    width: 100px;
+    height: 100px;
+    margin-top: 15px;
+
+}
+.flag{
+    width: 95px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(1, 11, 158);
+}
+.australia{
+    background-color: rgb(1, 11, 158);
+}
+.s-2{
+    width: 30px;
+    height: 30px;
+}
+.star-2{
+    display: flex;
+    width:83px;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+
+}
